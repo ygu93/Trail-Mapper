@@ -1,5 +1,5 @@
 # Trail Mapper
-[Live link](https://sincerely.github.io/yue-project/)
+[Live link](https://ygu93.github.io/Trail-Mapper/)
 
 Trail Mapper is an app that allows users to load their mile marker lat/long coordinates to see a visualization of their trail. For the simplicity of this project, this will be demonstrated with the mile markers of the [Pacific Crest Trail](http://en.wikipedia.org/wiki/Pacific_Crest_Trail)
 
