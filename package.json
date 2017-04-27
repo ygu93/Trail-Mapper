@@ -1,0 +1,24 @@
+{
+  "name": "yue-project",
+  "version": "1.0.0",
+  "description": "Project for Engineering Candidate Yue Gu",
+  "main": "bundle.js",
+  "dependencies": {
+    "react-js-pagination": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sincerely/yue-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sincerely/yue-project/issues"
+  },
+  "homepage": "https://github.com/sincerely/yue-project#readme"
+}
